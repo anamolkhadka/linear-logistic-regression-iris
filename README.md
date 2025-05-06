@@ -108,3 +108,13 @@ python data_processing_classification.py
 - Regularization plays a crucial role in reducing overfitting, especially for small datasets.
 - Visualization of decision boundaries and loss curves aids in model interpretability.
 - Feature selection and dimensionality have a large impact on model performance.
+
+## 📜 License
+
+- #### © 2025 Anamol Khadka. All rights reserved.
+- This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+- You are free to **share** and **adapt** the material for any purpose, even commercially, **as long as appropriate credit is given**.
+- Unauthorized reproduction, distribution, or modification of this work **without attribution** is prohibited.
+- For permissions, inquiries, or attribution guidelines, please contact: **khadkaanamol8@gmail.com**
+
+🔗 [View License Details](https://creativecommons.org/licenses/by/4.0/)
